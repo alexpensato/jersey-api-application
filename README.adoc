@@ -19,13 +19,13 @@ https://github.com/alexpensato/jersey-api-tomcat[Jersey API].
 This project has been configured for Tomcat WAR deployment.
 
 
-== Dependencies
+=== Dependencies
 
 * https://eclipse-ee4j.github.io/jersey/[Eclipse Jersey] library
 * https://github.com/FasterXML/jackson[Jackson] JSON parser
 
 
-== Contributions
+=== Contributions
 
 …are always welcome.
 Don’t hesitate to submit a https://github.com/alexpensato/jersey-api-application/issues[bug report] or a
@@ -34,7 +34,7 @@ https://github.com/alexpensato/jersey-api-application/pulls[pull requests].
 When filling a bug report or submitting a new feature, please try including supporting test cases.
 
 
-== License
+=== License
 
 This project has been licensed under http://www.apache.org/licenses/LICENSE-2.0.html[Apache License 2.0].
 
