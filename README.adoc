@@ -1,0 +1,41 @@
+== Jersey API Application
+
+This is a simple example project of an API written in Java, using Jersey.
+
+Jersey is the JAX-RS 2.x (https://jcp.org/en/jsr/detail?id=339[JSR-339] & https://jcp.org/en/jsr/detail?id=370[JSR-370])
+Reference Implementation.
+
+Jersey uses https://javaee.github.io/hk2/[HK2] as its default Dependency Injection Kernel.
+It is an implementation of https://jcp.org/en/jsr/detail?id=339[JSR-330] in a JavaSE environment.
+If you are looking for a http://www.cdi-spec.org/[CDI] Integration example, checkout our project:
+https://github.com/alexpensato/jersey-weld-tomcat[Jersey Weld API].
+
+This project uses JAX-RS
+https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/deployment.html[Application Model].
+If you are looking for a package scanning example, checkout our project:
+https://github.com/alexpensato/jersey-api-tomcat[Jersey API].
+
+
+This project has been configured for Tomcat WAR deployment.
+
+
+== Dependencies
+
+* https://eclipse-ee4j.github.io/jersey/[Eclipse Jersey] library
+* https://github.com/FasterXML/jackson[Jackson] JSON parser
+
+
+== Contributions
+
+…are always welcome.
+Don’t hesitate to submit a https://github.com/alexpensato/jersey-api-application/issues[bug report] or a
+https://github.com/alexpensato/jersey-api-application/pulls[pull requests].
+
+When filling a bug report or submitting a new feature, please try including supporting test cases.
+
+
+== License
+
+This project has been licensed under http://www.apache.org/licenses/LICENSE-2.0.html[Apache License 2.0].
+
+Use at your risk!
